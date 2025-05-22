@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix30">
+        <file>breath.png</file>
+    </qresource>
+</RCC>

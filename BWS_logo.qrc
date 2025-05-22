@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix21">
+        <file>BWS_logo.png</file>
+    </qresource>
+</RCC>

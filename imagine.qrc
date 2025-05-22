@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix61">
+        <file>be_wireless_solutions_logo.jpg</file>
+    </qresource>
+</RCC>

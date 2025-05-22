@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix51"/>
+    <qresource prefix="/new/prefix81">
+        <file>port.png</file>
+    </qresource>
+</RCC>
